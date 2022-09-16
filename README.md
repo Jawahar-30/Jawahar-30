@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jawahar-30
-- 👀 I’m interested in Learning Technology
+- 👀 I love computer science Technologies
 - 🌱 I’m currently learning Python
 
 <!---
