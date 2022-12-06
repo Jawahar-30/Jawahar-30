@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jawahar-30
-- 👀 I love computer science Technologies
-- 🌱 I’m currently learning Python
+- 👀 I love learning computer science Technologies
+- 🌱 
 
 <!---
 Jawahar-30/Jawahar-30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
